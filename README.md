@@ -1,7 +1,7 @@
-# 🍇GrapeDB
+# 🍇 GrapeDB 🍇
 Graph Database
 
-## Install
+## INSTALL
 
     go get -u github.com/salamer/GrapeDB
 
