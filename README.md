@@ -1,5 +1,9 @@
-# GrapeDB
+# 🍇GrapeDB
 Graph Database
+
+## Install
+
+    go get -u github.com/salamer/GrapeDB
 
 ## LICENSE
 Copyright © 2018 by Aljun
